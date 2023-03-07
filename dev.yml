@@ -1,0 +1,7 @@
+name: rust-book
+
+type: rust
+
+up:
+  - rust:
+  - cargo
